@@ -1,6 +1,6 @@
+# This script is hosted on https://get.activated.win for https://massgrave.dev
 
-# This script is hosted on <b>https://get.activated.win</b> for <b>https://massgrave.dev</b><br><br>
-# Having trouble launching this script? Check <a href="https://massgrave.dev">https://massgrave.dev</a> for help.<hr><pre>
+# Having trouble launching this script? Check https://massgrave.dev for help.
 
 if (-not $args) {
     Write-Host ''
